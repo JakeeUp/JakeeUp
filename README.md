@@ -21,7 +21,7 @@ My Focus is on creating systems that are enjoyable to play this ranges from the 
 ---
 
 ## 🏆 Achievements
-- 🥇 Awarded **Best Programmer** at UIW for academic excellence & project contributions  
+- 🥇 Awarded **Triple AAA Programmer Award** at UIW for academic excellence & project contributions  
 - 📚 Active contributor on [LeetCode](https://leetcode.com/u/JakeUp/) with a growing problem-solving repository  
 - 🎤 Shared experiences with high school students to promote game development & inspire future programmers  
 
