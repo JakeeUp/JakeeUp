@@ -1,10 +1,11 @@
-## # 👋 Hi there, I’m Jacob Fernandez  
+# # 👋 Hi there, I’m Jacob Fernandez  
 
 🎮 **Gameplay Programmer | UIW MGD Student | Passionate Game Developer**  
 
-I’m a senior **Gameplay Programmer** at the University of the Incarnate Word (UIW) working toward an accelerated master’s degree in gameplay programming. My focus is on **C++**, **C#**, and **game engine development**, with hands-on experience in **Unity, Unreal Engine 5, and custom OpenGL engines**.  
+I’m a **Gameplay Programmer**  working toward an accelerated master’s degree in gameplay programming. My focus is on **C++**, **C#**, and **game engine development**, with hands-on experience in **Unity, Unreal Engine 5, and custom OpenGL engines**.  
 
-My passion lies in creating systems that *feel good to play*—from moment-to-moment mechanics like FPS movement and AI behavior, to larger systems like procedural generation and rendering pipelines. I strive to bridge the gap between **technical precision** and **game feel**, making gameplay both functional and immersive.  
+My Focus is on creating systems that are enjoyable to play this ranges from the moment-to-moment gameplay like FPS movement and AI interaction, right through to larger systems like combat mechanics and inventory systems. I attempt to balance technical correctness and game feel, creating gameplay that is both functional and enjoyable.
+
 
 ---
 
@@ -14,21 +15,8 @@ My passion lies in creating systems that *feel good to play*—from moment-to-mo
 - **Specialties**:  
   - Gameplay systems & mechanics design   
   - AI behavior & input systems    
-  - Diegetic HUDs & immersion-driven design  
+  - Good amount of UI systems
 - **Other Tools**: Git/GitHub, Lua scripting, Maya (rigging/animation)
-
----
-
-## 📂 Featured Projects
-🔹 [**HandTracking-TileGame**](https://github.com/JakeeUp/HandTracking-TileGame) – A Python-based tile game using the Mediapipe library for hand tracking.  
-
-🔹 [**Engine_OpenGLProject**](https://github.com/JakeeUp/Engine_OpenGLProject) – A custom OpenGL engine in C++ rendering meshes, VBO-based pipelines, and light sources.  
-
-🔹 [**MetalGearMechanics_Unity**](https://github.com/JakeeUp/MetalGearMechanics_Unity) – Recreating stealth mechanics, AI, and weapon systems inspired by *Metal Gear Solid*.  
-
-🔹 [**BodyCamFPS_UE5**](https://github.com/JakeeUp/BodyCamFPS_UE5) – A round-based zombie survival prototype with immersive body-cam FPS mechanics in UE5.  
-
-🔹 [**GameProgramming-Portfolio**](https://github.com/JakeeUp/GameProgramming-Portfolio) – A collection of gameplay prototypes: side scrollers, hack-and-slash, and mobile survival systems.  
 
 ---
 
