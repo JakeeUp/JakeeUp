@@ -11,11 +11,12 @@ My Focus is on creating systems that are enjoyable to play this ranges from the 
 
 ## 🚀 Skills & Interests
 - **Languages**: C++, C#, Python, JavaScript  
-- **Engines & Tools**: Unreal Engine 5, Unity 6, SDL3, OpenGL, Assimp, ImGui  
+- **Engines & Tools**: Unreal Engine 5, Unity 6, SDL3, OpenGL, Assimp, ImGui, Mediapipe  
 - **Specialties**:  
   - Gameplay systems & mechanics design   
   - AI behavior & input systems    
   - Good amount of UI systems
+  - Computer vision input
 - **Other Tools**: Git/GitHub, Lua scripting, Maya (rigging/animation)
 
 ---
