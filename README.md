@@ -1,11 +1,10 @@
 # # 👋 Hi there, I’m Jacob Fernandez  
 
-🎮 **Gameplay Programmer | UIW MGD Student | Passionate Game Developer**  
+🎮 **Gameplay Programmer | UIW MGD Student | Gameplay & Software Development**  
 
 I’m a **Gameplay Programmer**  working toward an accelerated master’s degree in gameplay programming. My focus is on **C++**, **C#**, and **game engine development**, with hands-on experience in **Unity, Unreal Engine 5, and custom OpenGL engines**.  
 
-My Focus is on creating systems that are enjoyable to play this ranges from the moment-to-moment gameplay like FPS movement and AI interaction, right through to larger systems like combat mechanics and inventory systems. I attempt to balance technical correctness and game feel, creating gameplay that is both functional and enjoyable.
-
+While my primary passion is **game development**, I’m also expanding my skills in **data structures, algorithms, and problem solving** to prepare for opportunities in the wider tech industry.
 
 ---
 
