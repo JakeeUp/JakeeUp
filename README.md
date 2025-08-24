@@ -1,4 +1,4 @@
-# # 👋 Hi there, I’m Jacob Fernandez  
+ # 👋 Hi there, I’m Jacob Fernandez  
 
 🎮 **Gameplay Programmer | UIW MGD Student | Gameplay & Software Development**  
 
