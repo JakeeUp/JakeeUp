@@ -34,7 +34,7 @@ While my primary passion is **game development**, I’m also expanding my skills
 
 ---
 
-⚡ *“Great gameplay is more than code—it’s about creating experiences that players never forget.”*  
+⚡ *“"Programming isn't about what you know; it's about what you can figure out”*  
 
 
 <!--
