@@ -16,7 +16,7 @@ While my primary passion is **game development**, I’m also expanding my skills
   - AI behavior & input systems    
   - Good amount of UI systems
   - Computer vision input
-- **Other Tools**: Git/GitHub, Lua scripting, Maya (rigging/animation)
+- **Other Tools**: Git/GitHub, Perforce, Lua scripting, Maya (rigging/animation)
 
 ---
 
