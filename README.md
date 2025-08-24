@@ -27,14 +27,13 @@ While my primary passion is **game development**, I’m also expanding my skills
 
 ---
 
-## 🌐 Connect with Me
-- 📍 San Antonio, Texas  
+## 🌐 Connect with Me 
 - 💼 [LinkedIn](https://linkedin.com/in/jacobfernandezprogrammer)  
 - 🎥 [Vimeo Portfolio](https://vimeo.com/1078568958?share=copy)  
 
 ---
 
-⚡ *“"Programming isn't about what you know; it's about what you can figure out”*  
+⚡ *“Programming isn't about what you know; it's about what you can figure out”*  
 
 
 <!--
