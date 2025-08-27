@@ -21,7 +21,7 @@ While my primary passion is **game development**, I’m also expanding my skills
 ---
 
 ## 🏆 Achievements
-- 🥇 Awarded **Triple AAA Programmer Award** at UIW for academic excellence & project contributions  
+- 🥇 Awarded **Triple AAA Programmer Award** at UIW for project excellence & great programming fundamentals  
 - 📚 Active contributor on [LeetCode](https://leetcode.com/u/JakeUp/) with a growing problem-solving repository  
 - 🎤 Shared experiences with high school students to promote game development & inspire future programmers  
 
