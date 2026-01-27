@@ -1,6 +1,6 @@
- # 👋 Hi there, I’m Jacob Fernandez  
+ # Jacob Fernandez  
 
-🎮 **Gameplay Programmer | UIW MGD Student | Gameplay & Software Development**  
+ **Gameplay Programmer | UIW MGD Student | Gameplay & Software Development**  
 
 I’m a **Gameplay Programmer**  working toward an accelerated master’s degree in gameplay programming. My focus is on **C++**, **C#**, and **game engine development**, with hands-on experience in **Unity, Unreal Engine 5, and custom OpenGL engines**.  
 
@@ -8,7 +8,7 @@ While my primary passion is **game development**, I’m also expanding my skills
 
 ---
 
-## 🚀 Skills & Interests
+##  Skills & Interests
 - **Languages**: C++, C#, Python, JavaScript  
 - **Engines & Tools**: Unreal Engine 5, Unity 6, SDL3, OpenGL, Assimp, ImGui, Mediapipe  
 - **Specialties**:  
@@ -20,20 +20,20 @@ While my primary passion is **game development**, I’m also expanding my skills
 
 ---
 
-## 🏆 Achievements
-- 🥇 Awarded **Triple AAA Programmer Award** at UIW for project excellence & great programming fundamentals  
-- 📚 Active contributor on [LeetCode](https://leetcode.com/u/JakeUp/) with a growing problem-solving repository  
-- 🎤 Shared experiences with high school students to promote game development & inspire future programmers  
+##  Achievements
+-  Awarded **Triple AAA Programmer Award** at UIW for project excellence & great programming fundamentals  
+-  Active contributor on [LeetCode](https://leetcode.com/u/JakeUp/) with a growing problem-solving repository  
+-  Shared experiences with high school students to promote game development & inspire future programmers  
 
 ---
 
-## 🌐 Connect with Me 
-- 💼 [LinkedIn](https://linkedin.com/in/jacobfernandezprogrammer)  
-- 🎥 [Vimeo Portfolio](https://vimeo.com/1078568958?share=copy)  
+##  Connect with Me 
+-  [LinkedIn](https://linkedin.com/in/jacobfernandezprogrammer)  
+-  [Vimeo Portfolio](https://vimeo.com/1078568958?share=copy)  
 
 ---
 
-⚡ *“Programming isn't about what you know; it's about what you can figure out”*  
+ *“Programming isn't about what you know; it's about what you can figure out”*  
 
 
 <!--
