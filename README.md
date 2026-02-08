@@ -8,7 +8,7 @@ I am a **Gameplay Programmer** and **Technical Mentor** specializing in **high-p
 ## 🚀 Featured Projects
 
 ### 🕹️ Turn-Based Horror Project (In Development)
-* **Tech:** Unreal Engine 5, C++, Gameplay Ability System (GAS)
+* **Tech:** Unreal Engine 5, C++
 * **Focus:** Architecting modular gameplay systems, AI behavior trees, and custom technical design for a Summer 2026 release.
 
 ### 🔌 Custom OpenGL Graphics Engine
