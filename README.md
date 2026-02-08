@@ -1,52 +1,47 @@
- # Jacob Fernandez  
+# Jacob Fernandez | Gameplay & Systems Programmer
+**Awarded "Triple A Programmer" (2024)** | **M.F.A. Game Programming @ UIW**
 
- **Gameplay Programmer | UIW MGD Student | Gameplay & Software Development**  
-
-I’m a **Gameplay Programmer**  working toward an accelerated master’s degree in gameplay programming. My focus is on **C++**, **C#**, and **game engine development**, with hands-on experience in **Unity, Unreal Engine 5, and custom OpenGL engines**.  
-
-While my primary passion is **game development**, I’m also expanding my skills in **data structures, algorithms, and problem solving** to prepare for opportunities in the wider tech industry.
+I am a **Gameplay Programmer** and **Technical Mentor** specializing in **high-performance C++** and **Unreal Engine 5**. Currently serving as a Graduate TA, I teach advanced systems programming, memory management, and UE5 architecture to the next generation of developers.
 
 ---
 
-##  Skills & Interests
-- **Languages**: C++, C#, Python, JavaScript  
-- **Engines & Tools**: Unreal Engine 5, Unity 6, SDL3, OpenGL, Assimp, ImGui, Mediapipe  
-- **Specialties**:  
-  - Gameplay systems & mechanics design   
-  - AI behavior & input systems    
-  - Good amount of UI systems
-  - Computer vision input
-- **Other Tools**: Git/GitHub, Perforce, Lua scripting, Maya/Blender (rigging/animation)
+## 🚀 Featured Projects
+
+### 🕹️ Turn-Based Horror Project (In Development)
+* **Tech:** Unreal Engine 5, C++, Gameplay Ability System (GAS)
+* **Focus:** Architecting modular gameplay systems, AI behavior trees, and custom technical design for a Summer 2026 release.
+
+### 🔌 Custom OpenGL Graphics Engine
+* **Tech:** C++, OpenGL, GLSL, Assimp, ImGui
+* **Focus:** Developed a rendering pipeline from scratch, implementing shader systems and 3D model loading to understand low-level engine architecture.
+
+### 🧪 Technical Labs & Systems Architecture
+* **Tech:** C++, C#, Python, PyQt6
+* **Focus:** A collection of advanced implementations including custom File I/O systems, multithreaded processes, and UI tools developed during my MFA and TA tenure.
 
 ---
 
-##  Achievements
--  Awarded **Triple AAA Programmer Award** at UIW for project excellence & great programming fundamentals  
--  Active contributor on [LeetCode](https://leetcode.com/u/JakeUp/) with a growing problem-solving repository  
--  Shared experiences with high school students to promote game development & inspire future programmers  
+## 🛠️ Technical Toolkit
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C++ (Advanced), C#, Python, JavaScript, GLSL, Lua |
+| **Engines** | Unreal Engine 5 (GAS, AI, Blueprints), Unity, Custom OpenGL |
+| **Specialties** | Systems Programming, Memory Management, Performance Optimization, UI Development |
+| **Industry Tools** | Git, Perforce, Visual Studio, Rider, FFmpeg, Maya/Blender |
 
 ---
 
-##  Connect with Me 
--  [LinkedIn](https://linkedin.com/in/jacobfernandezprogrammer)  
--  [Vimeo Portfolio](https://vimeo.com/1078568958?share=copy)  
+## 🎓 Leadership & Achievements
+* **Triple A Programmer Award (2024):** Recognized by UIW for excellence in programming fundamentals and project execution.
+* **Graduate Teaching Assistant:** Leading labs on pointers, design patterns, and transitioning students from Unity/C# to UE5/C++.
+* **UPGRADE Program Representative:** Demonstrating real-world C++ applications to prospective high school students to promote game development.
 
 ---
 
- *“Programming isn't about what you know; it's about what you can figure out”*  
+## 🔗 Connect & Portfolio
+- 💼 [LinkedIn](https://linkedin.com/in/JacobFernandezProgrammer)
+- 🎥 [Vimeo Portfolio](https://vimeo.com/1078568958?share=copy)
+- 🧠 [LeetCode Profile](https://leetcode.com/u/JakeUp/)
 
-
-<!--
-**JakeeUp/JakeeUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Programming isn't about what you know; it's about what you can figure out."*
