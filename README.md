@@ -10,7 +10,7 @@ systems architecture, and game development.
 
 **Turn-Based RPG (UE5)** — Modular combat systems, AI behavior trees, dialogue engine. C++/Blueprints.
 
-**OpenGL Engine** — Rendering pipeline from scratch. Shaders, 3D model loading, ImGui.
+**[OpenGL Engine](https://github.com/JakeeUp/Engine_OpenGLProject)** — Rendering pipeline from scratch. Shaders, 3D model loading, ImGui.
 
 ## Skills
 C++ · C# · Python · JavaScript · Unreal Engine 5 · OpenGL · Git · CMake
