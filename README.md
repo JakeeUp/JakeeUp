@@ -7,7 +7,7 @@ C++ systems programmer who does it for the love of the game. Currently focused o
 
 **[TopDown_Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** — Unity 6 third-person/first-person hybrid shooter inspired by Rainbow Six Vegas. Cinemachine perspective blending, raycast shooting, procedural ADS. C#/URP.
 
-## Other Projects
+## Other Projects Im touching up
 
 **[CS Skin API](https://github.com/JakeeUp/cs-skin-api)** — C++ REST API serving live CS2 market data with a knapsack budget optimizer. Crow, libcurl, nlohmann/json.
 
