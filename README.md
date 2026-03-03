@@ -2,7 +2,7 @@
 
 **M.F.A. Game Programming @ UIW** | Triple A Programmer Award 2024
 
-C++ systems programmer who builds real things. Currently focused on backend engineering, 
+C++ systems programmer who does it for the love of the game. Currently focused on backend engineering, 
 systems architecture, and game development.
 
 ## Projects
