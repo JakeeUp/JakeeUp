@@ -5,7 +5,7 @@ C++ systems programmer who does it for the love of the game. Currently focused o
 
 ##  Currently Working On
 
-**[TopDown_Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** — Unity 6 third-person/first-person hybrid shooter inspired by Rainbow Six Vegas. Cinemachine perspective blending, raycast shooting, procedural ADS. C#/URP.
+**[TopDown_Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** — Unity 6 third-person/first-person hybrid shooter inspired by Rainbow Six Vegas perspective change.
 
 ## Other Projects Im touching up
 
