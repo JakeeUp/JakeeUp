@@ -1,4 +1,4 @@
-# Jacob Fernandez | Game Programmer/ Software Engineer 
+# Jacob Fernandez | Game Programmer / Software Engineer 
 **M.F.A. Game Programming @ UIW** | Triple A Programmer Award 2024
 
 C++ systems programmer who does it for the love of the game. Currently focused on backend engineering, systems architecture, and game development.
