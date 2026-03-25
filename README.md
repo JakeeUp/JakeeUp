@@ -59,6 +59,6 @@ Custom rendering engine built from the ground up. Shader pipeline, 3D model load
 
 <p align="center">
   <a href="https://linkedin.com/in/JacobFernandezProgrammer"><strong>LinkedIn</strong></a> ·
-  <a href="https://vimeo.com/1078568958"><strong>Portfolio</strong></a> ·
+  <a href="https://www.jacobfernandez.dev"><strong>Portfolio</strong></a> ·
   <a href="https://leetcode.com/u/JakeUp/"><strong>LeetCode</strong></a>
 </p>
