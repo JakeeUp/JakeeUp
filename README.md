@@ -26,29 +26,37 @@ Custom rendering engine built from the ground up. Shader pipeline, 3D model load
 
 <!-- ![OpenGL Engine Demo](opengl_demo.gif) -->
 
-### 📷 [BodyCam FPS](https://github.com/JakeeUp/BodyCamFPS_UE5) — Unreal Engine 5
-Round-based zombie survival with realistic body camera rendering. Custom camera logic, post-processing, and film-inspired visual effects.
-
-<!-- ![BodyCam Demo](bodycam_demo.gif) -->
-
-### 🔫 [Fortnite Loot Mechanics](https://github.com/JakeeUp/FortniteGunMechanics_UE5) — Unreal Engine 5
-Loot and item rarity system using Data Tables with custom shaders for rarity visualization. C++ and Blueprints.
-
 ---
 
 ## In Progress
 
-**Turn-Based RPG** (UE5) — Modular combat system with AI behavior trees and a branching dialogue engine. C++/Blueprints.
+🗡️ **Hack & Slash** (UE5) — Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. C++/Blueprints.
+
+⚔️ **Turn-Based RPG** (UE5) — Modular combat system with AI behavior trees and a branching dialogue engine. C++/Blueprints.
 
 ---
 
 ## Tech
 
-**Languages** — C++ · C# · Python · JavaScript
-**Engines** — Unreal Engine 5 · Unity 6
-**Graphics** — OpenGL · GLSL · Shader Programming
-**Backend** — REST APIs · libcurl · CMake · nlohmann/json
-**Tools** — Git · Visual Studio · Rider · Perforce
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity_6-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=white" />
+</p>
 
 ---
 
