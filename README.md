@@ -9,19 +9,14 @@ C++ systems programmer building game engines, gameplay systems, and backend serv
 
 ## Featured Projects
 
-### 🎮 [TopDown Mechanics](https://github.com/JakeeUp/TopDown_Mechanics) — Unity 6
-Third-person / first-person hybrid shooter with a dynamic perspective switch inspired by Rainbow Six Vegas. Built in Unity 6 with C#.
-
-<!-- ![TopDown Demo](topdown_demo.gif) -->
-
-### ⚙️ [CS Skin API](https://github.com/JakeeUp/cs-skin-api) — C++
+### [CS Skin API](https://github.com/JakeeUp/cs-skin-api) — C++
 REST API serving live CS2 Steam Market data with a **0/1 knapsack budget optimizer** and loadout builder. Built from scratch with Crow, libcurl, and nlohmann/json.
 
 [**Live Demo →**](https://jakeeup.github.io/cs-skin-api/)
 
 <!-- ![CS Skin API Demo](cs_skin_api_demo.gif) -->
 
-### 🔧 [OpenGL Engine](https://github.com/JakeeUp/Engine_OpenGLProject) — C++
+### [OpenGL Engine](https://github.com/JakeeUp/Engine_OpenGLProject) — C++
 Custom rendering engine built from the ground up. Shader pipeline, 3D model loading, lighting systems, and ImGui debug tooling.
 
 <!-- ![OpenGL Engine Demo](opengl_demo.gif) -->
@@ -30,9 +25,11 @@ Custom rendering engine built from the ground up. Shader pipeline, 3D model load
 
 ## In Progress
 
-🗡️ **Hack & Slash** (UE5) — Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. C++/Blueprints.
+**[TopDown Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** (Unity 6) — Third-person / first-person hybrid shooter with a dynamic perspective switch inspired by Rainbow Six Vegas. C#.
 
-⚔️ **Turn-Based RPG** (UE5) — Modular combat system with AI behavior trees and a branching dialogue engine. C++/Blueprints.
+**Hack & Slash** (UE5) — Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. C++/Blueprints.
+
+**Turn-Based RPG** (UE5) — Modular combat system with AI behavior trees and a branching dialogue engine. C++/Blueprints.
 
 ---
 
