@@ -1,23 +1,25 @@
 # Jacob Fernandez
 
-**Game Programmer & Software Engineer**
-M.F.A. Game Programming — University of the Incarnate Word | Triple A Programmer Award 2024
+**Gameplay Programmer | C++ Systems Engineer | Unreal Engine 5 | Unity**
 
-C++ systems programmer building game engines, gameplay systems, and backend services. Strong in low-level architecture, real-time systems, and shipping clean code under pressure.
+M.F.A. Game Programming - University of the Incarnate Word  
+Triple A Programmer Award 2024
+
+C++ systems programmer building gameplay systems, custom engine tools, and backend services. Strong in low-level architecture, real-time systems, and shipping clean code under pressure.
 
 ---
 
 ## Featured Projects
 
-### [CS Skin API](https://github.com/JakeeUp/cs-skin-api) — C++
+### [CS Skin API](https://github.com/JakeeUp/cs-skin-api) - C++
 REST API serving live CS2 Steam Market data with a **0/1 knapsack budget optimizer** and loadout builder. Built from scratch with Crow, libcurl, and nlohmann/json.
 
-[**Live Demo →**](https://jakeeup.github.io/cs-skin-api/)
+[**Live Demo ->**](https://jakeeup.github.io/cs-skin-api/)
 
 <!-- ![CS Skin API Demo](cs_skin_api_demo.gif) -->
 
-### [OpenGL Engine](https://github.com/JakeeUp/Engine_OpenGLProject) — C++
-Custom rendering engine built from the ground up. Shader pipeline, 3D model loading, lighting systems, and ImGui debug tooling.
+### [OpenGL Engine](https://github.com/JakeeUp/Engine_OpenGLProject) - C++
+Custom rendering engine built from the ground up with shader pipeline systems, 3D model loading, lighting, and ImGui debug tooling.
 
 <!-- ![OpenGL Engine Demo](opengl_demo.gif) -->
 
@@ -25,11 +27,20 @@ Custom rendering engine built from the ground up. Shader pipeline, 3D model load
 
 ## In Progress
 
-**[TopDown Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** (Unity 6) — Third-person / first-person hybrid shooter with a dynamic perspective switch inspired by Rainbow Six Vegas. C#.
+**[TopDown Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** (Unity 6) - Third-person / first-person hybrid shooter with a dynamic perspective switch inspired by Rainbow Six Vegas. C#.
 
-**Hack & Slash** (UE5) — Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. C++/Blueprints.
+**Hack & Slash** (UE5) - Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. C++ / Blueprints.
 
-**Turn-Based RPG** (UE5) — Modular combat system with AI behavior trees and a branching dialogue engine. C++/Blueprints.
+**Turn-Based RPG** (UE5) - Modular combat system with AI behavior trees and a branching dialogue engine. C++ / Blueprints.
+
+---
+
+## Focus
+
+- Gameplay systems and combat mechanics
+- Custom engine and rendering work
+- Real-time C++ architecture
+- Building polished, portfolio-ready game programming projects
 
 ---
 
@@ -58,7 +69,7 @@ Custom rendering engine built from the ground up. Shader pipeline, 3D model load
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/JacobFernandezProgrammer"><strong>LinkedIn</strong></a> ·
+  <a href="https://www.linkedin.com/in/jacobfernandezprogrammer"><strong>LinkedIn</strong></a> ·
   <a href="https://www.jacobfernandez.dev"><strong>Portfolio</strong></a> ·
   <a href="https://leetcode.com/u/JakeUp/"><strong>LeetCode</strong></a>
 </p>
