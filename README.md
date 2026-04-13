@@ -12,13 +12,10 @@ REST API serving live CS2 Steam Market data with a **0/1 knapsack budget optimiz
 ### [OpenGL Engine](https://github.com/JakeeUp/Engine_OpenGLProject) - C++
 Custom rendering engine built from the ground up with shader pipeline systems, 3D model loading, lighting, and ImGui debug tooling.
 <!-- ![OpenGL Engine Demo](opengl_demo.gif) -->
-### [Hack & Slash](https://github.com/JakeeUp/HackSlashMovement) - UE5 / C++ *(In Progress)*
-Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. C++ / Blueprints.
 ---
 ## In Progress
-
 **[TopDown Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** (Unity 6) - Third-person / first-person hybrid shooter with a dynamic perspective switch inspired by Rainbow Six Vegas. C#.
-
+**[Hack & Slash](https://github.com/JakeeUp/HackSlashMovement)** (UE5) - Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. C++ / Blueprints.
 **Turn-Based RPG** (UE5) - Modular combat system with AI behavior trees and a branching dialogue engine. C++ / Blueprints.
 ---
 ## Focus
