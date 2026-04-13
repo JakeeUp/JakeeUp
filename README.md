@@ -4,7 +4,7 @@
 
 **Gameplay Programmer · C++ Systems Engineer · Unreal Engine 5 · Unity**
 
-M.F.A. Game Programming — University of the Incarnate Word | Triple A Programmer Award 2024
+M.F.A. Game Programming - University of the Incarnate Word | Triple A Programmer Award 2024
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobfernandezprogrammer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.jacobfernandez.dev)
