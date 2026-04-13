@@ -2,7 +2,7 @@
 
 # Jacob Fernandez
 
-**Gameplay Programmer · C++ Systems Engineer · Unreal Engine 5 · Unity**
+**Gameplay Programmer · C++ Software Engineer · Unreal Engine 5 · Unity**
 
 M.F.A. Game Programming - University of the Incarnate Word | Triple A Programmer Award 2024
 
