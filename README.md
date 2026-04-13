@@ -19,7 +19,7 @@ Strong in low-level architecture, real-time systems, and shipping clean code und
 
 ---
 
-## 🎮 Featured Projects
+##  Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -29,7 +29,7 @@ Strong in low-level architecture, real-time systems, and shipping clean code und
 
 ---
 
-## 🔧 In Progress
+##  In Progress
 
 | Project | Engine | Description |
 |---------|--------|-------------|
@@ -38,13 +38,13 @@ Strong in low-level architecture, real-time systems, and shipping clean code und
 
 ---
 
-## 🧠 Focus Areas
+##  Focus Areas
 
 `Gameplay Systems` · `Combat Mechanics` · `Custom Engine & Rendering` · `Real-Time C++ Architecture` · `Portfolio-Ready Projects`
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**
 
