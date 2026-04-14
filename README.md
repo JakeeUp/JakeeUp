@@ -25,7 +25,7 @@ Strong in low-level architecture, real-time systems, and shipping clean code und
 |---------|-------|-------------|
 | **[CS Skin API](https://github.com/JakeeUp/cs-skin-api)** | C++, Crow, libcurl | REST API serving live CS2 Steam Market data with a **0/1 knapsack budget optimizer** and loadout builder. [Live Demo →](https://jakeeup.github.io/cs-skin-api/) |
 | **[OpenGL Engine](https://github.com/JakeeUp/Engine_OpenGLProject)** | C++, OpenGL, GLSL | Custom rendering engine with shader pipeline systems, 3D model loading, lighting, and ImGui debug tooling. |
-| **[Hack & Slash](https://github.com/JakeeUp/HackSlashMovement)** | UE5, C++, Blueprints | Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. *(In Progress)* |
+| **[Hack & Slash Combat System](https://github.com/JakeeUp/HackAndSlash-Combat-System)** | UE5, C++, Blueprints | Advanced movement system with fluid combo chains, dodge cancels, and directional inputs. *(In Progress)* |
 
 ---
 
