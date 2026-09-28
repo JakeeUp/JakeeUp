@@ -39,9 +39,16 @@ MGS1 stealth rebuilt. Guards spot you through a vision cone confirmed by raycast
 
 ## Experience
 
-**M.F.A. Prototyping**, UIW · 2024 to present · gameplay systems and technical design on a turn-based horror game in Unreal
-**Teaching Assistant**, UIW Game Programming · Aug 2025 to May 2026 · taught C++ and UE5 to students coming from Unity
-🏆 Triple A Programmer Award, 2024
+**M.F.A. Prototyping** · University of the Incarnate Word · 2024 to present<br>
+Gameplay systems and technical design on a turn-based horror game in Unreal. Two prototypes and a final build shipped with a cross-functional team.
+
+**Teaching Assistant** · UIW Game Programming · Aug 2025 to May 2026<br>
+Taught C++ and Unreal to students coming from C#/Unity. Wrote the labs and specs, ran code review.
+
+**UPGRADE Program Representative** · UIW · Nov 2022 to Nov 2025<br>
+Represented the Animation and Game Design department to prospective students, walking incoming high schoolers through the programming track and what the coursework actually involves.
+
+🏆 **Triple A Programmer Award** · 2024
 
 ---
 
