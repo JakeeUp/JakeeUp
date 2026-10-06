@@ -2,7 +2,7 @@
 
 # Jacob Fernandez
 
-**Gameplay & Systems Programmer** · C++ · C# · Python
+Gameplay and systems programmer · C++ · C# · Python
 
 San Antonio, TX · Graduating December 2026
 
@@ -13,44 +13,43 @@ San Antonio, TX · Graduating December 2026
 
 </div>
 
-I build combat systems, renderers, and the services behind them. Accelerated B.F.A./M.F.A. in Game Programming at UIW. Open to gameplay and software engineering roles.
-
----
+I'm finishing an accelerated B.F.A./M.F.A. in Game Programming at UIW. Most of what I build is combat systems and renderers, plus some backend services. I'm looking for gameplay or software engineering roles.
 
 ## Projects
 
-**[Hack & Slash Combat System](https://github.com/JakeeUp/HackAndSlash-Combat-System)** · `UE5` `C++`
-DMC-style action combat. Inputs buffer outside the combo window and fire the moment it opens, so pressing a frame early chains instead of dropping. Windows live on animation notifies, not hardcoded frames. → [GIFs](https://github.com/JakeeUp/HackAndSlash-Combat-System#showcase)
+### [Hack & Slash Combat System](https://github.com/JakeeUp/HackAndSlash-Combat-System)
+`UE5` `C++`
 
-**[OpenGL Rendering Engine](https://github.com/JakeeUp/Engine_OpenGLProject)** · `C++17` `GLSL` `Lua` `ImGui`
-A renderer and scene editor from scratch, scenes authored in Lua without recompiling. Frame cost measured with double-buffered `GL_TIME_ELAPSED` queries, closed before ImGui draws so the number is the renderer, not the UI. → [Demos](https://github.com/JakeeUp/Engine_OpenGLProject#features)
+DMC-style action combat in Unreal. Inputs pressed before the combo window opens are buffered and fire as soon as it does, so hitting a button a frame early still chains the combo. The windows themselves are set by animation notifies. There are [GIFs in the repo](https://github.com/JakeeUp/HackAndSlash-Combat-System#showcase).
 
-**[PlayGraph](https://github.com/JakeeUp/playgraph)** · `Python` `FastAPI` `Redis` `arq`
-A game log that freezes your Steam playtime into a review the moment you write it. A Locust load test took the public read path from **49 s p95 to 41 ms**. 116 tests, `pip-audit` and `bandit` gate every commit.
+### [OpenGL Rendering Engine](https://github.com/JakeeUp/Engine_OpenGLProject)
+`C++17` `GLSL` `Lua` `ImGui`
+
+A renderer and scene editor I wrote from scratch. Scenes are written in Lua, so changing one doesn't need a recompile. I measure frame cost with double-buffered `GL_TIME_ELAPSED` queries that close before ImGui draws, which keeps the editor UI out of the number. [Demos here](https://github.com/JakeeUp/Engine_OpenGLProject#features).
+
+### [PlayGraph](https://github.com/JakeeUp/playgraph)
+`Python` `FastAPI` `Redis` `arq`
+
+A game log that saves your Steam playtime with a review at the moment you write it. A Locust load test took the public read path from 49 s p95 down to 41 ms. It has 116 tests, and `pip-audit` and `bandit` run on every commit.
+
 [![Tests and security](https://github.com/JakeeUp/playgraph/actions/workflows/security.yml/badge.svg)](https://github.com/JakeeUp/playgraph/actions/workflows/security.yml)
 
-**[TopDown Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)** · `Unity 6` `C#` `URP` `HLSL`
-A shooter that swaps between top-down and first person mid-fight. One raymarched fog volume serves both, carved by two flashlight cones: projected for top-down, true 3D for first person.
+### [TopDown Mechanics](https://github.com/JakeeUp/TopDown_Mechanics)
+`Unity 6` `C#` `URP` `HLSL`
 
-**[Metal Gear Mechanics](https://github.com/JakeeUp/MetalGearMechanics_Unity)** · `Unity` `C#` `NavMesh`
-MGS1 stealth rebuilt. Guards spot you through a vision cone confirmed by raycast, then escalate through scan and search, so getting caught is always something you could see coming.
+A shooter where you can switch between top-down and first person in the middle of a fight. A single raymarched fog volume works in both views, and two flashlight cones cut through it: a projected one for top-down and a true 3D one for first person.
 
----
+### [Metal Gear Mechanics](https://github.com/JakeeUp/MetalGearMechanics_Unity)
+`Unity` `C#` `NavMesh`
+
+A rebuild of MGS1's stealth systems. Guards spot you with a vision cone checked by raycast, warn the guards around them, and go through scanning and searching when they lose you. It started as a class project in 2023, and I came back to it later to split the guard AI into separate state classes.
 
 ## Experience
 
-**M.F.A. Prototyping** · University of the Incarnate Word · 2024 to present<br>
-Gameplay systems and technical design on a turn-based horror game in Unreal. Two prototypes and a final build shipped with a cross-functional team.
-
-**Teaching Assistant** · UIW Game Programming · Aug 2025 to May 2026<br>
-Taught C++ and Unreal to students coming from C#/Unity. Wrote the labs and specs, ran code review.
-
-**UPGRADE Program Representative** · UIW · Nov 2022 to Nov 2025<br>
-Represented the Animation and Game Design department to prospective students, walking incoming high schoolers through the programming track and what the coursework actually involves.
-
-🏆 **Triple A Programmer Award** · 2024
-
----
+- M.F.A. prototyping, University of the Incarnate Word (2024 to present). I work on gameplay systems and technical design for a turn-based horror game in Unreal, and our cross-functional team has shipped two prototypes and a final build.
+- Teaching assistant, UIW Game Programming (Aug 2025 to May 2026). I taught C++ and Unreal to students coming from C# and Unity, wrote the labs and specs, and ran code review.
+- UPGRADE Program representative, UIW (Nov 2022 to Nov 2025). I represented the Animation and Game Design department to prospective students and walked incoming high schoolers through the programming track and what the coursework actually involves.
+- Triple A Programmer Award (2024)
 
 <div align="center">
 
