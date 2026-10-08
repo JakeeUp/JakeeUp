@@ -11,7 +11,7 @@ Gameplay and systems programmer · San Antonio, TX · Graduating December 2026
 
 </div>
 
-I'm finishing an accelerated B.F.A./M.F.A. in Game Programming at UIW and looking for gameplay or software engineering roles. Right now I'm building gameplay systems for a turn-based horror game in Unreal with my M.F.A. team.
+I'm finishing an accelerated B.F.A./M.F.A. in Game Programming at UIW and looking for gameplay or software engineering roles.
 
 ## Projects
 
